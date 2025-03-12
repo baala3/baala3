@@ -1,4 +1,11 @@
-## Hi there 👋
+## Bala here 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats-git-main-balas-projects-676bbe0c.vercel.app/api?username=baala3&show_icons=true&theme=nightowl&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats-git-main-balas-projects-676bbe0c.vercel.app/api/top-langs/?username=baala3&size_weight=0&count_weight=1&layout=compact&hide_progress=true&theme=nightowl&hide=html,css,makefile,shell)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **baala3/baala3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
